@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LRF05ShLB7LOgw1EDfhaSYmd2pHcH1OAvynZr6++Po9tb08ehxPGzSIKF3MEUes4hJZYi51OtMFN2zlOOL69YA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alerc\\.nuget\\packages\\servicestack.interfaces\\8.2.2\\servicestack.interfaces.8.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}

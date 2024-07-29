@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23ACC370-FA2D-45D4-B71A-B618677EFF34}|Web\\Web.csproj|c:\\users\\alerc\\desktop\\back2\\ecommerse-backend\\src\\web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23ACC370-FA2D-45D4-B71A-B618677EFF34}|Web\\Web.csproj|solutionrelative:web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23ACC370-FA2D-45D4-B71A-B618677EFF34}|Web\\Web.csproj|c:\\users\\alerc\\desktop\\back2\\ecommerse-backend\\src\\web\\web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{23ACC370-FA2D-45D4-B71A-B618677EFF34}|Web\\Web.csproj|solutionrelative:web\\web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23ACC370-FA2D-45D4-B71A-B618677EFF34}|Web\\Web.csproj|c:\\users\\alerc\\desktop\\back2\\ecommerse-backend\\src\\web\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23ACC370-FA2D-45D4-B71A-B618677EFF34}|Web\\Web.csproj|solutionrelative:web\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23ACC370-FA2D-45D4-B71A-B618677EFF34}|Web\\Web.csproj|c:\\users\\alerc\\desktop\\back2\\ecommerse-backend\\src\\web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23ACC370-FA2D-45D4-B71A-B618677EFF34}|Web\\Web.csproj|solutionrelative:web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6BF294D-4883-4EF1-8D4B-CF121B88CAC6}|Application\\Application.csproj|c:\\users\\alerc\\desktop\\back2\\ecommerse-backend\\src\\application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6BF294D-4883-4EF1-8D4B-CF121B88CAC6}|Application\\Application.csproj|solutionrelative:application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B806AD5-2C40-420A-B03A-C2D80B6F6E08}|Infrastructure\\Infrastructure.csproj|c:\\users\\alerc\\desktop\\back2\\ecommerse-backend\\src\\infrastructure\\service\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B806AD5-2C40-420A-B03A-C2D80B6F6E08}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\service\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23ACC370-FA2D-45D4-B71A-B618677EFF34}|Web\\Web.csproj|c:\\users\\alerc\\desktop\\back2\\ecommerse-backend\\src\\web\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23ACC370-FA2D-45D4-B71A-B618677EFF34}|Web\\Web.csproj|solutionrelative:web\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B806AD5-2C40-420A-B03A-C2D80B6F6E08}|Infrastructure\\Infrastructure.csproj|c:\\users\\alerc\\desktop\\back2\\ecommerse-backend\\src\\infrastructure\\migrations\\20240722222541_testmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B806AD5-2C40-420A-B03A-C2D80B6F6E08}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20240722222541_testmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web",
+              "DocumentMoniker": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Web\\Web.csproj",
+              "RelativeDocumentMoniker": "Web\\Web.csproj",
+              "ToolTip": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Web\\Web.csproj",
+              "RelativeToolTip": "Web\\Web.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-29T15:16:20.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Infrastructure\\Service\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Service\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Infrastructure\\Service\\AuthenticationService.cs",
+              "RelativeToolTip": "Infrastructure\\Service\\AuthenticationService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowEQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T22:27:43.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Web\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Web\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Web\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAnwBsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T22:27:34.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240722222541_TestMigration.cs",
+              "DocumentMoniker": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Infrastructure\\Migrations\\20240722222541_TestMigration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240722222541_TestMigration.cs",
+              "ToolTip": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Infrastructure\\Migrations\\20240722222541_TestMigration.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20240722222541_TestMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T22:25:42.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Application\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Application\\Services\\OrderService.cs",
+              "RelativeToolTip": "Application\\Services\\OrderService.cs",
+              "ViewState": "AQIAAN8AAAAAAAAAAAAiwPUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T22:11:42.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Web\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Web\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Web\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAADwv4cAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T22:09:28.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Web\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Web\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Web\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAADwv5QAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T22:09:23.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Web\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Web\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Web\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T22:09:16.551Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 193,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1083 @@
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\obj\Debug\net8.0\Web.csproj.AssemblyReference.cache
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\obj\Debug\net8.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\obj\Debug\net8.0\Web.AssemblyInfoInputs.cache
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\obj\Debug\net8.0\Web.AssemblyInfo.cs
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\obj\Debug\net8.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\obj\Debug\net8.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\obj\Debug\net8.0\Web.sourcelink.json
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\obj\Debug\net8.0\Web.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\obj\Debug\net8.0\refint\Web.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\obj\Debug\net8.0\Web.pdb
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\appsettings.json
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Web.exe
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Web.deps.json
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Web.runtimeconfig.json
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Web.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Web.pdb
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Application.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Domain.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Application.pdb
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Domain.pdb
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\obj\Debug\net8.0\staticwebassets\msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Web.props
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web.props
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web.props
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\obj\Debug\net8.0\scopedcss\bundle\Web.styles.css
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\obj\Debug\net8.0\Web.csproj.Up2Date
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\obj\Debug\net8.0\Web.genruntimeconfig.cache
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\obj\Debug\net8.0\ref\Web.dll
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.csproj.AssemblyReference.cache
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.AssemblyInfoInputs.cache
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.AssemblyInfo.cs
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.csproj.CoreCompileInputs.cache
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.MvcApplicationPartsAssemblyInfo.cs
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.sourcelink.json
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.dll
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\refint\Web.dll
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.pdb
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\appsettings.Development.json
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\appsettings.json
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Web.exe
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Web.deps.json
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Web.runtimeconfig.json
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Web.dll
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Web.pdb
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Application.dll
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Domain.dll
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Infrastructure.dll
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Application.pdb
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Infrastructure.pdb
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Domain.pdb
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets\msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Web.props
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web.props
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web.props
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\scopedcss\bundle\Web.styles.css
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.csproj.Up2Date
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.genruntimeconfig.cache
+C:\SourceCode\TP-PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\ref\Web.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\obj\Debug\net8.0\Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\ServiceStack.Interfaces.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Humanizer.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion 3 TPI\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.csproj.AssemblyReference.cache
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.AssemblyInfoInputs.cache
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.AssemblyInfo.cs
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.csproj.CoreCompileInputs.cache
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.MvcApplicationPartsAssemblyInfo.cs
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.sourcelink.json
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\refint\Web.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.pdb
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\appsettings.Development.json
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\appsettings.json
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Web.exe
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Web.deps.json
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Web.runtimeconfig.json
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Web.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Web.pdb
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Azure.Core.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Azure.Identity.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Humanizer.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\ServiceStack.Interfaces.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\System.CodeDom.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Memory.Data.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Application.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Domain.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Infrastructure.dll
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Application.pdb
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Infrastructure.pdb
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\bin\Debug\net8.0\Domain.pdb
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets\msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Web.props
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web.props
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web.props
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\scopedcss\bundle\Web.styles.css
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.csproj.Up2Date
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.genruntimeconfig.cache
+C:\SourceCode\NEW TP PROG3\Programacion-3-TPI\Web\obj\Debug\net8.0\ref\Web.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.csproj.AssemblyReference.cache
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.AssemblyInfoInputs.cache
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.AssemblyInfo.cs
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.sourcelink.json
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\appsettings.json
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Humanizer.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\ServiceStack.Interfaces.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Application.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Domain.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Application.pdb
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Domain.pdb
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.csproj.Up2Date
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.genruntimeconfig.cache
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Ecommerce.Web.exe
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Ecommerce.Web.deps.json
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Ecommerce.Web.runtimeconfig.json
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Ecommerce.Web.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Ecommerce.Web.pdb
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\Ecommerce.Web.xml
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\obj\Debug\net8.0\Ecommerce.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\obj\Debug\net8.0\Ecommerce.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets\msbuild.Ecommerce.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Ecommerce.Web.props
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ecommerce.Web.props
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ecommerce.Web.props
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\obj\Debug\net8.0\scopedcss\bundle\Ecommerce.Web.styles.css
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\obj\Debug\net8.0\Ecommerce.Web.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\obj\Debug\net8.0\refint\Ecommerce.Web.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\obj\Debug\net8.0\Ecommerce.Web.xml
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\obj\Debug\net8.0\Ecommerce.Web.pdb
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\obj\Debug\net8.0\ref\Ecommerce.Web.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\appsettings.Development.json
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\appsettings.json
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Ecommerce.Web.exe
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Ecommerce.Web.deps.json
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Ecommerce.Web.runtimeconfig.json
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Ecommerce.Web.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Ecommerce.Web.pdb
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Ecommerce.Web.xml
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Azure.Core.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Azure.Identity.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Humanizer.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\ServiceStack.Interfaces.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\System.CodeDom.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Memory.Data.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Application.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Domain.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Infrastructure.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Application.pdb
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Infrastructure.pdb
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\bin\Debug\net8.0\Domain.pdb
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.csproj.AssemblyReference.cache
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.AssemblyInfoInputs.cache
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.AssemblyInfo.cs
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.csproj.CoreCompileInputs.cache
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\obj\Debug\net8.0\Ecommerce.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\obj\Debug\net8.0\Ecommerce.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.sourcelink.json
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets\msbuild.Ecommerce.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Ecommerce.Web.props
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ecommerce.Web.props
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ecommerce.Web.props
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\obj\Debug\net8.0\scopedcss\bundle\Ecommerce.Web.styles.css
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.csproj.Up2Date
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\obj\Debug\net8.0\Ecommerce.Web.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\obj\Debug\net8.0\refint\Ecommerce.Web.dll
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\obj\Debug\net8.0\Ecommerce.Web.xml
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\obj\Debug\net8.0\Ecommerce.Web.pdb
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.genruntimeconfig.cache
+C:\SourceCode\TP PROG 3 OFFICIAAAAAAAAAAAAAAAAAL\Programacion-3-TPI\Web\obj\Debug\net8.0\ref\Ecommerce.Web.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\appsettings.Development.json
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\appsettings.json
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Ecommerce.Web.exe
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Ecommerce.Web.deps.json
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Ecommerce.Web.runtimeconfig.json
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Ecommerce.Web.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Ecommerce.Web.pdb
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Ecommerce.Web.xml
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Azure.Core.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Azure.Identity.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Humanizer.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\ServiceStack.Interfaces.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\System.CodeDom.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Memory.Data.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Application.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Domain.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Infrastructure.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Application.pdb
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Infrastructure.pdb
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\Domain.pdb
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.csproj.AssemblyReference.cache
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.AssemblyInfoInputs.cache
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.AssemblyInfo.cs
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.csproj.CoreCompileInputs.cache
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\obj\Debug\net8.0\Ecommerce.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\obj\Debug\net8.0\Ecommerce.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.sourcelink.json
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets\msbuild.Ecommerce.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Ecommerce.Web.props
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ecommerce.Web.props
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ecommerce.Web.props
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\obj\Debug\net8.0\scopedcss\bundle\Ecommerce.Web.styles.css
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.csproj.Up2Date
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\obj\Debug\net8.0\Ecommerce.Web.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\obj\Debug\net8.0\refint\Ecommerce.Web.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\obj\Debug\net8.0\Ecommerce.Web.xml
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\obj\Debug\net8.0\Ecommerce.Web.pdb
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\obj\Debug\net8.0\Web.genruntimeconfig.cache
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\obj\Debug\net8.0\ref\Ecommerce.Web.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\MailKit.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\MimeKit.dll
+C:\SourceCode\PROG3 ECOMERSE\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\MailKit.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\MimeKit.dll
+C:\Users\GasTon\Desktop\Programacion 3 TPI\Programacion-3-TPI\Web\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\appsettings.Development.json
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\appsettings.json
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Ecommerce.Web.exe
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Ecommerce.Web.deps.json
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Ecommerce.Web.runtimeconfig.json
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Ecommerce.Web.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Ecommerce.Web.pdb
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Ecommerce.Web.xml
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Azure.Core.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Azure.Identity.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Humanizer.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\MailKit.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\MimeKit.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\ServiceStack.Interfaces.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\System.CodeDom.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\System.Memory.Data.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Application.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Domain.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Infrastructure.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Application.pdb
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Infrastructure.pdb
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\bin\Debug\net8.0\Domain.pdb
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\obj\Debug\net8.0\Web.csproj.AssemblyReference.cache
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\obj\Debug\net8.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\obj\Debug\net8.0\Web.AssemblyInfoInputs.cache
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\obj\Debug\net8.0\Web.AssemblyInfo.cs
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\obj\Debug\net8.0\Web.csproj.CoreCompileInputs.cache
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\obj\Debug\net8.0\Ecommerce.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\obj\Debug\net8.0\Ecommerce.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\obj\Debug\net8.0\Web.sourcelink.json
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\obj\Debug\net8.0\staticwebassets\msbuild.Ecommerce.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Ecommerce.Web.props
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ecommerce.Web.props
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ecommerce.Web.props
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\obj\Debug\net8.0\scopedcss\bundle\Ecommerce.Web.styles.css
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\obj\Debug\net8.0\Web.csproj.Up2Date
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\obj\Debug\net8.0\Ecommerce.Web.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\obj\Debug\net8.0\refint\Ecommerce.Web.dll
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\obj\Debug\net8.0\Ecommerce.Web.xml
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\obj\Debug\net8.0\Ecommerce.Web.pdb
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\obj\Debug\net8.0\Web.genruntimeconfig.cache
+C:\SourceCode\ult prog 3\Programacion-3-TPI\src\Web\obj\Debug\net8.0\ref\Ecommerce.Web.dll
