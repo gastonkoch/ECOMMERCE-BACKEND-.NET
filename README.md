@@ -1,5 +1,5 @@
-# ECOMMERSE-BACKEND
-Este es el back-end del Ecommerse, se debe levantar la solucion para poder consumir las API desde el Front en React que se encuentra en otro repositorio.
+# ECOMMERCE-BACKEND
+Este es el back-end del Ecommerce, se debe levantar la solucion para poder consumir las API desde el Front en React que se encuentra en otro repositorio.
 
 Este proyecto esta hecho para implementar los siguientes conceptos:
 
