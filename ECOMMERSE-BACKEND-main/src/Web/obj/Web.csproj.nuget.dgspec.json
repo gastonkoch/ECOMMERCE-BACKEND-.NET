@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Web\\Web.csproj": {}
+    "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Web\\Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Application\\Application.csproj": {
+    "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\alerc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Application\\obj\\",
+        "projectPath": "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\GasTon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alerc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\GasTon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Domain\\Domain.csproj"
+              "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Domain\\Domain.csproj"
               }
             }
           }
@@ -68,17 +68,17 @@
         }
       }
     },
-    "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Domain\\Domain.csproj": {
+    "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\alerc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\GasTon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alerc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\GasTon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -134,17 +134,17 @@
         }
       }
     },
-    "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\alerc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\GasTon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alerc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\GasTon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -158,8 +158,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Application\\Application.csproj"
+              "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Application\\Application.csproj"
               }
             }
           }
@@ -236,17 +236,17 @@
         }
       }
     },
-    "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Web\\Web.csproj": {
+    "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Web\\Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Web\\Web.csproj",
+        "projectUniqueName": "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Web\\Web.csproj",
         "projectName": "Ecommerce.Web",
-        "projectPath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Web\\Web.csproj",
-        "packagesPath": "C:\\Users\\alerc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Web\\obj\\",
+        "projectPath": "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Web\\Web.csproj",
+        "packagesPath": "C:\\Users\\GasTon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alerc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\GasTon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -260,11 +260,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Application\\Application.csproj"
+              "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Application\\Application.csproj"
               },
-              "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }

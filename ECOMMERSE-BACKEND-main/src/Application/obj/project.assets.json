@@ -54,19 +54,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\alerc\\.nuget\\packages\\": {}
+    "C:\\Users\\GasTon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Application\\Application.csproj",
-      "packagesPath": "C:\\Users\\alerc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Application\\obj\\",
+      "projectPath": "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Application\\Application.csproj",
+      "packagesPath": "C:\\Users\\GasTon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\alerc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\GasTon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -80,8 +80,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Domain\\Domain.csproj"
+            "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Domain\\Domain.csproj"
             }
           }
         }

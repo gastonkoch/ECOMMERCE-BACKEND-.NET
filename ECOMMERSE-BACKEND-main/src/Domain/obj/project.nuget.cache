@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SvU+7T2eFuhQAFK/VmdPw/r5ePa0Cw0pCL6HEkJYWWwdikRCbE1o0uWHUsgUXPkT1fmL/zUOwi60ZDrs0CI6fw==",
+  "dgSpecHash": "BKf3phK6QIVFdvtknyuOyAskytkD7FyFgeAaV72pKDNPnHOY9KUPxcJDKfp1pe9iL916EBNMZE9QDGUX2HOkVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\alerc\\.nuget\\packages\\servicestack.interfaces\\8.2.2\\servicestack.interfaces.8.2.2.nupkg.sha512"
+    "C:\\Users\\GasTon\\.nuget\\packages\\servicestack.interfaces\\8.2.2\\servicestack.interfaces.8.2.2.nupkg.sha512"
   ],
   "logs": []
 }
