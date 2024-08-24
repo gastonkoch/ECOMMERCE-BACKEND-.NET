@@ -3,6 +3,7 @@ using Application.Services;
 using Domain.Entities;
 using Domain.Enum;
 using Domain.Interfaces;
+using Ecommerce.Web.Middlewares;
 using Infrastructure.Data;
 using Infrastructure.Service;
 using Microsoft.Data.Sqlite;
@@ -83,6 +84,7 @@ builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<ISendEmailService, SendEmailService>();
 builder.Services.AddScoped<IEmailService, EmailService>();
+builder.Services.AddTransient <GlobalExceptionHandlingMiddleware>();
 #endregion
 
 
@@ -138,8 +140,9 @@ app.UseHttpsRedirection();
 
 app.UseAuthentication();
 
-app.UseAuthorization();
+app.UseMiddleware<GlobalExceptionHandlingMiddleware>();
 
+app.UseAuthorization();
 
 app.MapControllers();
 

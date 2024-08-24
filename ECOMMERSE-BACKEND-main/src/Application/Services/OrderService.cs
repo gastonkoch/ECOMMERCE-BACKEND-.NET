@@ -4,6 +4,7 @@ using Application.Models.Requests;
 using Application.Models.Response;
 using Domain.Entities;
 using Domain.Enum;
+using Domain.Exceptions;
 using Domain.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -34,7 +35,7 @@ namespace Application.Services
 
         public OrderWhitPriceResponse GetOrderById(int id)
         {
-            OrderDto orderDto = OrderDto.ToDto(_orderRepository.GetByIdAsync(id).Result ?? throw new Exception("No se encontro la orden"));
+            OrderDto orderDto = OrderDto.ToDto(_orderRepository.GetByIdAsync(id).Result ?? throw new NotFoundException("No se encontro la orden"));
 
             OrderWhitPriceResponse orderWhitPrices = new OrderWhitPriceResponse();
             orderWhitPrices.Id = id;
@@ -63,15 +64,15 @@ namespace Application.Services
 
         public ICollection<OrderDto> GetOrdersByCustomer(int customerId)
         {
-            var customer = _userRepository.GetByIdAsync(customerId).Result ?? throw new Exception("No se encontro el usuario");
+            var customer = _userRepository.GetByIdAsync(customerId).Result ?? throw new NotFoundException("No se encontro el usuario");
             if (customer.UserType != UserType.Customer)
             {
-                throw new Exception("El id ingresado no es de tipo cliente");
+                throw new AppValidationException("El id ingresado no es de tipo cliente");
             }
             List<OrderDto> orders = OrderDto.ToList(_orderRepository.OrdersByCustomer(customerId).Result);
             if (orders.Count == 0)
             {
-                throw new Exception("No se encontraron las ordenes del cliente");
+                throw new AppValidationException("No se encontraron las ordenes del cliente");
             }
 
             return orders;  
@@ -79,22 +80,22 @@ namespace Application.Services
 
         public ICollection<OrderDto> GetOrdersBySeller(int sellerId)
         {
-            var seller = _userRepository.GetByIdAsync(sellerId).Result ?? throw new Exception("No se encontro el usuario");
+            var seller = _userRepository.GetByIdAsync(sellerId).Result ?? throw new NotFoundException("No se encontro el usuario");
             if (seller.UserType != UserType.Seller)
             {
-                throw new Exception("El id ingresado no es de tipo vendedor");
+                throw new AppValidationException("El id ingresado no es de tipo vendedor");
             }
             List<OrderDto> orders = OrderDto.ToList(_orderRepository.OrdersBySellers(sellerId).Result);
             if (orders.Count == 0)
             {
-                throw new Exception("No se encontraron las ordenes del vendedor");
+                throw new AppValidationException("No se encontraron las ordenes del vendedor");
             }
             return orders;
         }
 
         public List<OrderWhitPriceResponse> GetAllOrders()
         {
-            var ListorderDto = OrderDto.ToList(_orderRepository.GetAllOrdersAsync().Result ?? throw new Exception("No se encontro la orden"));
+            var ListorderDto = OrderDto.ToList(_orderRepository.GetAllOrdersAsync().Result ?? throw new NotFoundException("No se encontro la orden"));
 
             List<OrderWhitPriceResponse> listOrderWhitPriceResponse = new List<OrderWhitPriceResponse>();
 
@@ -133,59 +134,59 @@ namespace Application.Services
         {
             if (order.CustomerId <= 0)
             {
-                throw new Exception("El id de cliente invalido");
+                throw new AppValidationException("El id de cliente invalido");
             }
 
             if (order.SellerId <= 0)
             {
-                throw new Exception("El id de vendedor invalido");
+                throw new AppValidationException("El id de vendedor invalido");
             }
 
-            var customer = _userRepository.GetByIdAsync(order.CustomerId).Result ?? throw new Exception("No se encontro el usuario");
-            var seller = _userRepository.GetByIdAsync(order.SellerId).Result ?? throw new Exception("No se encontro el usuario");
+            var customer = _userRepository.GetByIdAsync(order.CustomerId).Result ?? throw new NotFoundException("No se encontro el usuario");
+            var seller = _userRepository.GetByIdAsync(order.SellerId).Result ?? throw new NotFoundException("No se encontro el usuario");
 
             if (customer.UserType != UserType.Customer)
             {
-                throw new Exception("El id ingresado no es de tipo cliente");
+                throw new AppValidationException("El id ingresado no es de tipo cliente");
             }
 
             if (seller.UserType != UserType.Seller)
             {
-                throw new Exception("El id ingresado no es de tipo vendedor");
+                throw new AppValidationException("El id ingresado no es de tipo vendedor");
             }
 
             if (customer.Avaible == false)
             {
-                throw new Exception("El usuario cliente se encuentra deshabilitado");
+                throw new AppValidationException("El usuario cliente se encuentra deshabilitado");
             }
 
             if (seller.Avaible == false)
             {
-                throw new Exception("El usuario vendedor se encuentra deshabilitado");
+                throw new AppValidationException("El usuario vendedor se encuentra deshabilitado");
             }
 
             if (!Enum.IsDefined(typeof(PaymentMethod), order.PaymentMethod))
             {
-                throw new Exception("El metodo de pago no es valido");
+                throw new AppValidationException("El metodo de pago no es valido");
             }
 
             foreach (var item in order.ProductsInOrder)
             {
                 if (item.Id <= 0)
                 {
-                    throw new Exception("El id del producto es invalido");
+                    throw new AppValidationException("El id del producto es invalido");
                 }
 
-                var productException = _productRepository.GetByIdAsync(item.Id).Result ?? throw new Exception($"No se encontro el producto con id {item.Id}");
+                var productException = _productRepository.GetByIdAsync(item.Id).Result ?? throw new NotFoundException($"No se encontro el producto con id {item.Id}");
 
                 if (item.Quantity <= 0)
                 {
-                    throw new Exception($"No se permite cantidades menores a 0. Por favor revisar el producto {productException.Id} : {productException.Name}");
+                    throw new AppValidationException($"No se permite cantidades menores a 0. Por favor revisar el producto {productException.Id} : {productException.Name}");
                 }
 
                 if (productException.ProductAvaible == false)
                 {
-                    throw new Exception($"El producto {productException.Id} : {productException.Name} se encuentra deshabilitado, por favor seleccione otro producto");
+                    throw new AppValidationException($"El producto {productException.Id} : {productException.Name} se encuentra deshabilitado, por favor seleccione otro producto");
                 }
             }
 
@@ -205,12 +206,12 @@ namespace Application.Services
             foreach (ProductsInOrderDto productInOrder in order.ProductsInOrder)
             {
 
-                var product = _productRepository.GetByIdAsync(productInOrder.Id).Result ?? throw new Exception("No se encontro el producto");
+                var product = _productRepository.GetByIdAsync(productInOrder.Id).Result ?? throw new NotFoundException("No se encontro el producto");
                 pricePerProduct = 0m;
 
                 if (product.Stock < productInOrder.Quantity) //Endpoint No ABMC
                 {
-                    throw new Exception($"El producto {product.Id}:  {product.Name} no posee el stock suficiente. Su stock actual es {product.Stock}");
+                    throw new AppValidationException($"El producto {product.Id}:  {product.Name} no posee el stock suficiente. Su stock actual es {product.Stock}");
                 }
 
                 product.Stock -= productInOrder.Quantity;
@@ -254,10 +255,10 @@ namespace Application.Services
 
         public string CheckStockProduct(int productId)
         {
-            var product = _productRepository.GetByIdAsync(productId).Result ?? throw new Exception("No se encontro el producto");
+            var product = _productRepository.GetByIdAsync(productId).Result ?? throw new NotFoundException("No se encontro el producto");
             if (product.Stock <= 0)
             {
-                throw new Exception($"El producto ingresado {product.Name} no posee stock");
+                throw new AppValidationException($"El producto ingresado {product.Name} no posee stock");
             }
 
             return $"El producto ingresado {product.Name} posee {product.Stock} en stock";
@@ -269,24 +270,24 @@ namespace Application.Services
 
             if (orderId <= 0)
             {
-                throw new Exception("El id de la orden es invalido");
+                throw new AppValidationException("El id de la orden es invalido");
             }
 
             if (!Enum.IsDefined(typeof(PaymentMethod), changeOrder.PaymentMethod))
             {
-                throw new Exception("El metodo de pago no es valido");
+                throw new AppValidationException("El metodo de pago no es valido");
             }
 
             PaymentMethod paymentMethod = (PaymentMethod)changeOrder.StatusOrder; 
 
             if (!Enum.IsDefined(typeof(StatusOrder), changeOrder.StatusOrder))
             {
-                throw new Exception("El estado no es válido");
+                throw new AppValidationException("El estado no es válido");
             }
 
             StatusOrder statusOrder = (StatusOrder)changeOrder.StatusOrder;
 
-            Order order = _orderRepository.GetByIdAsync(orderId).Result ?? throw new Exception("No se encontro la orden");
+            Order order = _orderRepository.GetByIdAsync(orderId).Result ?? throw new NotFoundException("No se encontro la orden");
 
             if (order.StatusOrder == StatusOrder.InProgress)
             {
@@ -304,18 +305,18 @@ namespace Application.Services
                     {
                         if (itemProduct.Id <= 0)
                         {
-                            throw new Exception("El id del producto es invalido");
+                            throw new AppValidationException("El id del producto es invalido");
                         }
 
                         if (itemProduct.Quantity <= 0)
                         {
-                            var productException = _productRepository.GetByIdAsync(item.Product.Id).Result ?? throw new Exception("No se encontro el producto");
-                            throw new Exception($"No se permite cantidades menores a 0. Por favor revisar el producto {productException.Id} : {productException.Name}");
+                            var productException = _productRepository.GetByIdAsync(item.Product.Id).Result ?? throw new NotFoundException("No se encontro el producto");
+                            throw new AppValidationException($"No se permite cantidades menores a 0. Por favor revisar el producto {productException.Id} : {productException.Name}");
                         }
 
                         if (item.Product.Id == itemProduct.Id)
                         {
-                            var product = _productRepository.GetByIdAsync(item.Product.Id).Result ?? throw new Exception("No se encontro el producto");
+                            var product = _productRepository.GetByIdAsync(item.Product.Id).Result ?? throw new NotFoundException("No se encontro el producto");
 
                             var newQuantity = item.Quantity - itemProduct.Quantity;
 
@@ -324,7 +325,7 @@ namespace Application.Services
                                 var newQuantityCompare = newQuantity * (-1);
                                 if (product.Stock < newQuantityCompare)
                                 {
-                                    throw new Exception($"El producto {product.Id}:  {product.Name} no posee el stock suficiente. Su stock actual es {product.Stock}, usted ya habia solicitado {item.Quantity}");
+                                    throw new AppValidationException($"El producto {product.Id}:  {product.Name} no posee el stock suficiente. Su stock actual es {product.Stock}, usted ya habia solicitado {item.Quantity}");
                                 }
                             }
                             //Modificamos el stock en Productos
@@ -345,7 +346,7 @@ namespace Application.Services
                 // Delete
                 foreach (var itemRemove in productListDataBaseRemove)
                 {
-                    var product = _productRepository.GetByIdAsync(itemRemove.Product.Id).Result ?? throw new Exception("No se encontro el producto");
+                    var product = _productRepository.GetByIdAsync(itemRemove.Product.Id).Result ?? throw new NotFoundException("No se encontro el producto");
                     product.Stock += itemRemove.Quantity;
                     await _orderProductRepository.DeleteAsync(itemRemove);
                 }
@@ -353,7 +354,7 @@ namespace Application.Services
                 // Create
                 foreach (var itemCreate in productListProductOrderCreate)
                 {
-                    var product = _productRepository.GetByIdAsync(itemCreate.Id).Result ?? throw new Exception("No se encontro el producto");
+                    var product = _productRepository.GetByIdAsync(itemCreate.Id).Result ?? throw new NotFoundException("No se encontro el producto");
                     product.Stock -= itemCreate.Quantity;
                     OrderProduct orderProduct = new OrderProduct
                     {
@@ -366,7 +367,7 @@ namespace Application.Services
             }
             else
             {
-                throw new Exception("No es posibile realizar la modificación, debido a que la order no se encuentra en progreso");
+                throw new AppValidationException("No es posibile realizar la modificación, debido a que la order no se encuentra en progreso");
             }
         }
 
@@ -374,16 +375,16 @@ namespace Application.Services
         {
             if (!Enum.IsDefined(typeof(StatusOrder), changeOrderStatus.StatusOrder))
             {
-                throw new Exception("El estado no es válido");
+                throw new AppValidationException("El estado no es válido");
             }
 
             StatusOrder statusOrder = (StatusOrder)changeOrderStatus.StatusOrder;
 
-            Order order = _orderRepository.GetByIdAsync(orderId).Result ?? throw new Exception("No se encontro la orden");
+            Order order = _orderRepository.GetByIdAsync(orderId).Result ?? throw new NotFoundException("No se encontro la orden");
 
             if (order.StatusOrder == statusOrder)
             {
-                throw new Exception("No es posible realizar esta acción, debido a que la orden ya se encuentra en este estado");
+                throw new AppValidationException("No es posible realizar esta acción, debido a que la orden ya se encuentra en este estado");
             }
             else
             {
@@ -430,13 +431,13 @@ namespace Application.Services
 
         public async Task<string> DeleteOrder(int id)
         {
-            Order order = await _orderRepository.GetByIdAsync(id) ?? throw new Exception("No se encontró la orden");
+            Order order = await _orderRepository.GetByIdAsync(id) ?? throw new NotFoundException("No se encontró la orden");
             if (order.ProductsInOrder.Count > 0)
             {
                 List<OrderProduct> orders = await _orderProductRepository.GetListOrdersByOrderId(id);
                 foreach (var itemRemove in orders)
                 {
-                    var product = await _productRepository.GetByIdAsync(itemRemove.Product.Id) ?? throw new Exception("No se encontró el producto");
+                    var product = await _productRepository.GetByIdAsync(itemRemove.Product.Id) ?? throw new NotFoundException("No se encontró el producto");
                     product.Stock += itemRemove.Quantity;
                     await _productRepository.UpdateAsync(product);
                     await _orderProductRepository.DeleteAsync(itemRemove);

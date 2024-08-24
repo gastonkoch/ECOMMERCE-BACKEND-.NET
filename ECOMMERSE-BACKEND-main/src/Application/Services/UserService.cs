@@ -3,6 +3,7 @@ using Application.Models;
 using Application.Models.Requests;
 using Domain.Entities;
 using Domain.Enum;
+using Domain.Exceptions;
 using Domain.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -26,19 +27,19 @@ namespace Application.Services
 
         public ICollection<UserDto> GetAllUsers()
         {
-            var users = UserDto.ToList(_userRepository.ListAsync().Result ?? throw new Exception("No se encontraron usuarios"));
+            var users = UserDto.ToList(_userRepository.ListAsync().Result ?? throw new NotFoundException("No se encontraron usuarios"));
             return users;
         }
 
         public UserDto GetUserById(int id)
         {
-            UserDto userDto = UserDto.ToDto(_userRepository.GetByIdAsync(id).Result ?? throw new Exception("No se encontro el usuario"));
+            UserDto userDto = UserDto.ToDto(_userRepository.GetByIdAsync(id).Result ?? throw new NotFoundException("No se encontro el usuario"));
             return userDto;
         }
 
         public ICollection<UserDto> GetUserByName(string name)
         {
-            List<UserDto> users = UserDto.ToList(_userRepository.GetByName(name).Result ?? throw new Exception("No se encontro el producto"));
+            List<UserDto> users = UserDto.ToList(_userRepository.GetByName(name).Result ?? throw new NotFoundException("No se encontro el producto"));
             return users;
         }
 
@@ -72,7 +73,7 @@ namespace Application.Services
             var userInDataBase = _userRepository.GetByUserEmail(user.Email);
             if (userInDataBase is not null)
             {
-                throw new ArgumentException($"El mail {user.Email} ya se encuentra en uso");
+                throw new AppValidationException($"El mail {user.Email} ya se encuentra en uso");
             }
 
             UserDto userCreate = new UserDto();
@@ -113,7 +114,7 @@ namespace Application.Services
                 throw new ArgumentException("El tipo de usuario es inválido", nameof(user.UserType));
             }
 
-            var userValidate = _userRepository.GetByIdAsync(id).Result ?? throw new Exception("No se encontro el usuario");
+            var userValidate = _userRepository.GetByIdAsync(id).Result ?? throw new NotFoundException("No se encontro el usuario");
             
             userValidate.Name = user.Name;
             userValidate.Email = user.Email;
@@ -125,7 +126,7 @@ namespace Application.Services
         }
         public async Task ChangeAvailability(int id)
         {
-            var user= _userRepository.GetByIdAsync(id).Result ?? throw new Exception("No se encontro el usuario");
+            var user= _userRepository.GetByIdAsync(id).Result ?? throw new NotFoundException("No se encontro el usuario");
 
             user.Avaible = !user.Avaible;
 
@@ -134,13 +135,13 @@ namespace Application.Services
 
         public ICollection<UserDto> GetUsersAvaible()
         {
-            var users = UserDto.ToList(_userRepository.GetListAvaible().Result ?? throw new Exception("No se encontraron usuarios"));
+            var users = UserDto.ToList(_userRepository.GetListAvaible().Result ?? throw new NotFoundException("No se encontraron usuarios"));
             return users;
         }
 
         public async Task<string> DeleteUser(int id)
         {
-            var userDto = _userRepository.GetByIdAsync(id).Result ?? throw new Exception("No se encontro el usuario");
+            var userDto = _userRepository.GetByIdAsync(id).Result ?? throw new NotFoundException("No se encontro el usuario");
 
             if (userDto.UserType == UserType.Admin)
             {

@@ -26,14 +26,7 @@ namespace Web.Controllers
         [Authorize(Policy = "AdminPolicy")]
         public ActionResult<ICollection<User>> GetAll()
         {
-            try
-            {
-                return Ok(_userService.GetAllUsers());
-            }
-            catch (Exception ex)
-            {
-                return BadRequest(ex.Message);
-            }
+            return Ok(_userService.GetAllUsers());
         }
 
         [HttpGet("/UsersAvaible")]
@@ -41,14 +34,7 @@ namespace Web.Controllers
         [Authorize(Policy = "AdminPolicy")]
         public ActionResult<ICollection<UserDto>> GetAllUsersAvaible()
         {
-            try
-            {
-                return Ok(_userService.GetUsersAvaible());
-            }
-            catch (Exception ex)
-            {
-                return BadRequest(ex.Message);
-            }
+            return Ok(_userService.GetUsersAvaible());
         }
 
         [HttpGet("{id}")]
@@ -56,14 +42,7 @@ namespace Web.Controllers
         [Authorize(Policy = "AdminPolicy")]
         public ActionResult<UserDto> GetById([FromRoute] int id)
         {
-            try
-            {
-                return Ok(_userService.GetUserById(id));
-            }
-            catch (Exception ex)
-            {
-                return BadRequest(ex.Message);
-            }
+            return Ok(_userService.GetUserById(id));
         }
 
         [HttpGet("Name/{name}")]
@@ -71,28 +50,13 @@ namespace Web.Controllers
         [Authorize(Policy = "AdminPolicy")]
         public ActionResult<UserDto> GetByName([FromRoute] string name)
         {
-            try
-            {
-                return Ok(_userService.GetUserByName(name));
-            }
-            catch (Exception ex)
-            {
-                return BadRequest(ex.Message);
-            }
+            return Ok(_userService.GetUserByName(name));
         }
 
         [HttpPost]
         public ActionResult<UserDto> Create([FromBody] UserCreateRequest user)
         {
-            try
-            {
-                return Ok(_userService.CreateUser(user));
-
-            }
-            catch (Exception ex)
-            {
-                return BadRequest(ex.Message);
-            }
+            return Ok(_userService.CreateUser(user));
         }
 
         [HttpPut("ChangeAvailability/{id}")]
@@ -100,31 +64,16 @@ namespace Web.Controllers
         [Authorize(Policy = "AdminPolicy")]
         public async Task<IActionResult> ChangeAvailability([FromRoute] int id)
         {
-            try
-            {
-                await _userService.ChangeAvailability(id);
-                return Ok();
-            }
-            catch (ArgumentException ex)
-            {
-                return BadRequest(new { message = ex.Message });
-            }
+            await _userService.ChangeAvailability(id);
+            return Ok();
         }
 
         [HttpPut("{id}")]
         [Authorize(Policy = "EveryoneExceptGuests")]
         public async Task<IActionResult> Update([FromRoute] int id, [FromBody] UserUpdateRequest user)
         {
-            try
-            {
-                await _userService.UpdateUser(id, user);
-                return Ok();
-            }
-            catch (ArgumentException ex)
-            {
-                return BadRequest(new { message = ex.Message });
-            }
-
+            await _userService.UpdateUser(id, user);
+            return Ok();
         }
 
         [HttpDelete("{id}")]
@@ -132,15 +81,8 @@ namespace Web.Controllers
         [Authorize(Policy = "AdminPolicy")]
         public async Task<ActionResult<string>> Delete([FromRoute] int id)
         {
-            try
-            {
-                string result = await _userService.DeleteUser(id);
-                return Ok(result);
-            }
-            catch (Exception ex)
-            {
-                return BadRequest(ex.Message);
-            }
+            string result = await _userService.DeleteUser(id);
+            return Ok(result);
         }
 
     }

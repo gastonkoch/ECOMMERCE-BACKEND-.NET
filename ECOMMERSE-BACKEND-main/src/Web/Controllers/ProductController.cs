@@ -22,27 +22,14 @@ namespace Web.Controllers
         [HttpGet("{id}")]
         public ActionResult<ProductDto> GetById([FromRoute] int id)
         {
-            try
-            {
-                return Ok(_productService.GetProductById(id));
-            }
-            catch (Exception ex)
-            {
-                return BadRequest(ex.Message);
-            }
+           return Ok(_productService.GetProductById(id));
+
         }
 
         [HttpGet("Name/{name}")]
         public ActionResult<ICollection<ProductDto>> GetByName([FromRoute] string name)
         {
-            try
-            {
-                return Ok(_productService.GetProductByName(name));
-            }
-            catch (Exception ex)
-            {
-                return BadRequest(ex.Message);
-            }
+            return Ok(_productService.GetProductByName(name));
         }
 
         [HttpGet("/Products")]
@@ -50,27 +37,13 @@ namespace Web.Controllers
         [Authorize(Policy = "AdminOrSellerPolicy")]
         public ActionResult<ICollection<Product>> GetAll()
         {
-            try
-            {
-                return Ok(_productService.GetAllProducts());
-            }
-            catch (Exception ex)
-            {
-                return BadRequest(ex.Message);
-            }
+            return Ok(_productService.GetAllProducts());
         }
 
         [HttpGet("/ProductsAvaible")]
         public ActionResult<ICollection<Product>> GetAllProductsAvaible()
         {
-            try
-            {
-                return Ok(_productService.GetProductsAvaible());
-            }
-            catch (Exception ex)
-            {
-                return BadRequest(ex.Message);
-            }
+             return Ok(_productService.GetProductsAvaible());
         }
 
         [HttpPost]
@@ -78,14 +51,7 @@ namespace Web.Controllers
         [Authorize(Policy = "SellerPolicy")]
         public ActionResult<ProductDto> Create([FromBody] ProductCreateRequest product)
         {
-            try
-            {
-                return Ok(_productService.CreateProduct(product));
-            }
-            catch (Exception ex)
-            {
-                return BadRequest(ex.Message);
-            }
+            return Ok(_productService.CreateProduct(product));
         }
 
         [HttpPut("{id}")]
@@ -93,15 +59,8 @@ namespace Web.Controllers
         [Authorize(Policy = "SellerPolicy")]
         public async Task<IActionResult> Update([FromRoute] int id, [FromBody] ProductChangeRequest product)
         {
-            try
-            {
-                await _productService.UpdateProduct(id, product);
-                return Ok();
-            }
-            catch (ArgumentException ex)
-            {
-                return BadRequest(new { message = ex.Message });
-            }
+            await _productService.UpdateProduct(id, product);
+            return Ok();
         }
 
         [HttpPut("ChangeStock/{id}")]
@@ -109,15 +68,8 @@ namespace Web.Controllers
         [Authorize(Policy = "SellerPolicy")]
         public async Task<ActionResult<string>> ChangeStock([FromRoute] int id, [FromBody] ChangeStockRequest stock)
         {
-            try
-            {
-                string result = await _productService.ChangeStockProduct(id, stock);
-                return Ok(result);
-            }
-            catch (Exception ex)
-            {
-                return BadRequest(ex.Message);
-            }
+            string result = await _productService.ChangeStockProduct(id, stock);
+            return Ok(result);
         }
 
 
@@ -126,15 +78,8 @@ namespace Web.Controllers
         [Authorize(Policy = "AdminOrSellerPolicy")]
         public async Task<IActionResult> ChangeAvailability([FromRoute] int id)
         {
-            try
-            {
-                await _productService.ChangeAvailability(id);
-                return Ok();
-            }
-            catch (ArgumentException ex)
-            {
-                return BadRequest(new { message = ex.Message });
-            }
+            await _productService.ChangeAvailability(id);
+            return Ok();
         }
 
 
@@ -143,16 +88,8 @@ namespace Web.Controllers
         [Authorize(Policy = "AdminPolicy")]
         public async Task<ActionResult<string>> Delete([FromRoute] int id)
         {
-            try
-            {
-                string result = await _productService.DeleteProduct(id);
-                return Ok(result);
-            }
-            catch (Exception ex)
-            {
-                return BadRequest(ex.Message);
-            }
+            string result = await _productService.DeleteProduct(id);
+            return Ok(result);
         }
-
     }
 }
