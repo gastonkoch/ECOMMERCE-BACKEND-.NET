@@ -126,6 +126,18 @@ builder.Services.AddAuthorization(options =>
             context.User.IsInRole(UserType.Admin.ToString())));
 });
 
+var proveedor = builder.Services.BuildServiceProvider();
+var configuration = proveedor.GetService<IConfiguration>();
+
+builder.Services.AddCors(opciones =>
+{
+    var fronendURL = configuration.GetValue<String>("Local_Frontend_URL");
+
+    opciones.AddDefaultPolicy(builder =>
+    {
+        builder.WithOrigins(fronendURL).AllowAnyMethod().AllowAnyHeader();
+    });
+});
 
 
 var app = builder.Build();
@@ -140,9 +152,11 @@ app.UseHttpsRedirection();
 
 app.UseAuthentication();
 
+app.UseAuthorization();
+
 app.UseMiddleware<GlobalExceptionHandlingMiddleware>();
 
-app.UseAuthorization();
+app.UseCors();
 
 app.MapControllers();
 
