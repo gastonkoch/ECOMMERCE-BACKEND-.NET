@@ -1,0 +1,13 @@
+C:\Users\GasTon\Desktop\Back-End Ecommerce\ECOMMERCE-BACKEND-.NET\ECOMMERSE-BACKEND-main\src\Domain\bin\Release\net8.0\Domain.deps.json
+C:\Users\GasTon\Desktop\Back-End Ecommerce\ECOMMERCE-BACKEND-.NET\ECOMMERSE-BACKEND-main\src\Domain\bin\Release\net8.0\Domain.dll
+C:\Users\GasTon\Desktop\Back-End Ecommerce\ECOMMERCE-BACKEND-.NET\ECOMMERSE-BACKEND-main\src\Domain\bin\Release\net8.0\Domain.pdb
+C:\Users\GasTon\Desktop\Back-End Ecommerce\ECOMMERCE-BACKEND-.NET\ECOMMERSE-BACKEND-main\src\Domain\obj\Release\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\GasTon\Desktop\Back-End Ecommerce\ECOMMERCE-BACKEND-.NET\ECOMMERSE-BACKEND-main\src\Domain\obj\Release\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GasTon\Desktop\Back-End Ecommerce\ECOMMERCE-BACKEND-.NET\ECOMMERSE-BACKEND-main\src\Domain\obj\Release\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\GasTon\Desktop\Back-End Ecommerce\ECOMMERCE-BACKEND-.NET\ECOMMERSE-BACKEND-main\src\Domain\obj\Release\net8.0\Domain.AssemblyInfo.cs
+C:\Users\GasTon\Desktop\Back-End Ecommerce\ECOMMERCE-BACKEND-.NET\ECOMMERSE-BACKEND-main\src\Domain\obj\Release\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\GasTon\Desktop\Back-End Ecommerce\ECOMMERCE-BACKEND-.NET\ECOMMERSE-BACKEND-main\src\Domain\obj\Release\net8.0\Domain.sourcelink.json
+C:\Users\GasTon\Desktop\Back-End Ecommerce\ECOMMERCE-BACKEND-.NET\ECOMMERSE-BACKEND-main\src\Domain\obj\Release\net8.0\Domain.dll
+C:\Users\GasTon\Desktop\Back-End Ecommerce\ECOMMERCE-BACKEND-.NET\ECOMMERSE-BACKEND-main\src\Domain\obj\Release\net8.0\refint\Domain.dll
+C:\Users\GasTon\Desktop\Back-End Ecommerce\ECOMMERCE-BACKEND-.NET\ECOMMERSE-BACKEND-main\src\Domain\obj\Release\net8.0\Domain.pdb
+C:\Users\GasTon\Desktop\Back-End Ecommerce\ECOMMERCE-BACKEND-.NET\ECOMMERSE-BACKEND-main\src\Domain\obj\Release\net8.0\ref\Domain.dll

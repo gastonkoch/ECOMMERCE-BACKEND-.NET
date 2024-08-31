@@ -83,7 +83,7 @@ namespace Application.Services
             userCreate.Password = user.Password;
             userCreate.UserType = user.UserType;
             userCreate.Avaible = true;
-            userCreate.RegisterDate = DateOnly.FromDateTime(DateTime.Now);
+            userCreate.RegisterDate = DateTime.Today;
             return UserDto.ToDto(_userRepository.AddAsync(UserDto.ToEntity(userCreate)).Result);
         }
 

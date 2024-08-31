@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{23ACC370-FA2D-45D4-B71A-B618677EFF34}|Web\\Web.csproj|c:\\users\\gaston\\desktop\\back-end ecommerce\\ecommerce-backend-.net\\ecommerse-backend-main\\src\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23ACC370-FA2D-45D4-B71A-B618677EFF34}|Web\\Web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23ACC370-FA2D-45D4-B71A-B618677EFF34}|Web\\Web.csproj|c:\\users\\gaston\\desktop\\back-end ecommerce\\ecommerce-backend-.net\\ecommerse-backend-main\\src\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{23ACC370-FA2D-45D4-B71A-B618677EFF34}|Web\\Web.csproj|solutionrelative:web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,32 +26,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Web\\Program.cs",
-              "RelativeDocumentMoniker": "Web\\Program.cs",
-              "ToolTip": "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Web\\Program.cs",
-              "RelativeToolTip": "Web\\Program.cs",
-              "ViewState": "AQIAAHIAAAAAAAAAAAAAAIEAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T19:56:49.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Web\\appsettings.json",
-              "RelativeDocumentMoniker": "Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\GasTon\\Desktop\\Back-End Ecommerce\\ECOMMERCE-BACKEND-.NET\\ECOMMERSE-BACKEND-main\\src\\Web\\appsettings.json",
-              "RelativeToolTip": "Web\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-24T20:00:42.425Z",
-              "EditorCaption": ""
             }
           ]
         },

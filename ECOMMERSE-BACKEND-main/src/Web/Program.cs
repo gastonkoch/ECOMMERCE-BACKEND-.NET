@@ -49,24 +49,17 @@ builder.Services.AddSwaggerGen(setupAction =>
 
 });
 
+string connectionString = builder.Configuration.GetConnectionString("DBConnectionString");
 
-string connectionString = builder.Configuration["ConnectionStrings:DBConnectionString"]!;
-
-var connection = new SqliteConnection(connectionString);
-connection.Open();
-
-using (var command = connection.CreateCommand())
-{
-    command.CommandText = "PRAGMA journal_mode = DELETE;";
-    command.ExecuteNonQuery();
-}
-
-builder.Services.AddDbContext<ApplicationDbContext>(dbContextOptions => dbContextOptions.UseSqlite(connection));
+// Configure DbContext
+builder.Services.AddDbContext<ApplicationDbContext>(dbContextOptions =>
+    dbContextOptions.UseSqlServer(connectionString, b =>
+        b.MigrationsAssembly("Infrastructure")));
 
 
 #region Repositories
+//builder.Services.AddScoped<ApplicationDbContext>();
 builder.Services.AddScoped<IAuthenticationService, AuthenticationService>();
-builder.Services.AddScoped<ApplicationDbContext>();
 builder.Services.AddScoped<IOrderRepository, OrderRepository>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
@@ -86,7 +79,6 @@ builder.Services.AddScoped<ISendEmailService, SendEmailService>();
 builder.Services.AddScoped<IEmailService, EmailService>();
 builder.Services.AddTransient <GlobalExceptionHandlingMiddleware>();
 #endregion
-
 
 
 builder.Services.Configure<AutenticacionServiceOptions>(
@@ -147,6 +139,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
 
 app.UseHttpsRedirection();
 

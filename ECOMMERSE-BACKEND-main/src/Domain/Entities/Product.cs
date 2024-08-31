@@ -2,9 +2,6 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Domain.Entities
 {
@@ -26,7 +23,7 @@ namespace Domain.Entities
         public string Description { get; set; }
 
         [Required]
-        [Column(TypeName = "int(4.0)")]
+        [Column(TypeName = "int")] // Cambia esta línea para eliminar el tamaño
         public int Stock { get; set; }
 
         public bool ProductAvaible { get; set; } = true;

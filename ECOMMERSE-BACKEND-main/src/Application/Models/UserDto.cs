@@ -26,7 +26,7 @@ namespace Application.Models
         public string Email { get; set; }
 
         [Required]
-        public DateOnly RegisterDate { get; set; }
+        public DateTime RegisterDate { get; set; }
 
         [Required]
         public UserType UserType { get; set; }

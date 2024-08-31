@@ -3,6 +3,7 @@ using System;
 using Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -15,25 +16,31 @@ namespace Infrastructure.Migrations
         protected override void BuildModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
-            modelBuilder.HasAnnotation("ProductVersion", "8.0.6");
+            modelBuilder
+                .HasAnnotation("ProductVersion", "8.0.6")
+                .HasAnnotation("Relational:MaxIdentifierLength", 128);
+
+            SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
             modelBuilder.Entity("Domain.Entities.Order", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("INTEGER");
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<int>("CustomerId")
-                        .HasColumnType("INTEGER");
+                        .HasColumnType("int");
 
                     b.Property<int>("PaymentMethod")
-                        .HasColumnType("INTEGER");
+                        .HasColumnType("int");
 
                     b.Property<int>("SellerId")
-                        .HasColumnType("INTEGER");
+                        .HasColumnType("int");
 
                     b.Property<int>("StatusOrder")
-                        .HasColumnType("INTEGER");
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
 
@@ -48,17 +55,19 @@ namespace Infrastructure.Migrations
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("INTEGER");
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Message")
                         .IsRequired()
                         .HasColumnType("nvarchar(400)");
 
                     b.Property<int>("OrderId")
-                        .HasColumnType("INTEGER");
+                        .HasColumnType("int");
 
                     b.Property<int>("UserId")
-                        .HasColumnType("INTEGER");
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
 
@@ -73,16 +82,18 @@ namespace Infrastructure.Migrations
                 {
                     b.Property<int>("OrderProductId")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("INTEGER");
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("OrderProductId"));
 
                     b.Property<int>("OrderId")
-                        .HasColumnType("INTEGER");
+                        .HasColumnType("int");
 
                     b.Property<int>("ProductId")
-                        .HasColumnType("INTEGER");
+                        .HasColumnType("int");
 
                     b.Property<int>("Quantity")
-                        .HasColumnType("INTEGER");
+                        .HasColumnType("int");
 
                     b.HasKey("OrderProductId");
 
@@ -97,7 +108,9 @@ namespace Infrastructure.Migrations
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("INTEGER");
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Description")
                         .IsRequired()
@@ -111,10 +124,10 @@ namespace Infrastructure.Migrations
                         .HasColumnType("decimal(18, 2)");
 
                     b.Property<bool>("ProductAvaible")
-                        .HasColumnType("INTEGER");
+                        .HasColumnType("bit");
 
                     b.Property<int>("Stock")
-                        .HasColumnType("int(4.0)");
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
 
@@ -199,10 +212,12 @@ namespace Infrastructure.Migrations
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("INTEGER");
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<bool>("Avaible")
-                        .HasColumnType("INTEGER");
+                        .HasColumnType("bit");
 
                     b.Property<string>("Email")
                         .IsRequired()
@@ -220,11 +235,11 @@ namespace Infrastructure.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(100)");
 
-                    b.Property<DateOnly>("RegisterDate")
+                    b.Property<DateTime>("RegisterDate")
                         .HasColumnType("datetime");
 
                     b.Property<int>("UserType")
-                        .HasColumnType("INTEGER");
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
 
@@ -239,18 +254,18 @@ namespace Infrastructure.Migrations
                             LastName = "Koch",
                             Name = "Gaston",
                             Password = "g",
-                            RegisterDate = new DateOnly(2024, 6, 6),
+                            RegisterDate = new DateTime(2024, 6, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             UserType = 1
                         },
                         new
                         {
                             Id = 2,
                             Avaible = true,
-                            Email = "distefanoalejandrom@gmail.com",
-                            LastName = "Di Stefano",
-                            Name = "Alejandro",
+                            Email = "Pepe@gmail.com",
+                            LastName = "Gomez",
+                            Name = "Pepe",
                             Password = "2",
-                            RegisterDate = new DateOnly(2024, 4, 5),
+                            RegisterDate = new DateTime(2024, 4, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             UserType = 0
                         },
                         new
@@ -261,7 +276,7 @@ namespace Infrastructure.Migrations
                             LastName = "Gomez",
                             Name = "Juan",
                             Password = "3",
-                            RegisterDate = new DateOnly(2024, 2, 1),
+                            RegisterDate = new DateTime(2024, 2, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             UserType = 1
                         },
                         new
@@ -272,7 +287,7 @@ namespace Infrastructure.Migrations
                             LastName = "Lopez",
                             Name = "Ana",
                             Password = "4",
-                            RegisterDate = new DateOnly(2024, 5, 10),
+                            RegisterDate = new DateTime(2024, 5, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             UserType = 0
                         },
                         new
@@ -283,7 +298,7 @@ namespace Infrastructure.Migrations
                             LastName = "Franco",
                             Name = "Luis",
                             Password = "123",
-                            RegisterDate = new DateOnly(2024, 3, 15),
+                            RegisterDate = new DateTime(2024, 3, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             UserType = 1
                         },
                         new
@@ -294,7 +309,7 @@ namespace Infrastructure.Migrations
                             LastName = "Moscheti",
                             Name = "Pepe",
                             Password = "876",
-                            RegisterDate = new DateOnly(2024, 3, 15),
+                            RegisterDate = new DateTime(2024, 3, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             UserType = 1
                         },
                         new
@@ -305,7 +320,7 @@ namespace Infrastructure.Migrations
                             LastName = "",
                             Name = "admin",
                             Password = "admin",
-                            RegisterDate = new DateOnly(2024, 3, 15),
+                            RegisterDate = new DateTime(2024, 3, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             UserType = 2
                         },
                         new
@@ -316,7 +331,7 @@ namespace Infrastructure.Migrations
                             LastName = "Guevara",
                             Name = "Luis",
                             Password = "433",
-                            RegisterDate = new DateOnly(2024, 3, 15),
+                            RegisterDate = new DateTime(2024, 3, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             UserType = 1
                         });
                 });

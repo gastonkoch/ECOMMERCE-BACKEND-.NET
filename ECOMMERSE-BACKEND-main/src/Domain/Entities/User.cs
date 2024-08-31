@@ -33,7 +33,7 @@ namespace Domain.Entities
 
         [Required]
         [Column(TypeName = "datetime")]
-        public DateOnly RegisterDate { get; set; }
+        public DateTime RegisterDate { get; set; }
 
         [Required]
         public UserType UserType { get; set; }
